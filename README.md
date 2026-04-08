@@ -1,2 +1,2 @@
 # Problem Statement
-## Design a fraud detection system to identify fradulent credit card transaction in real-time. The system should detect suspicious activities such as unauthorized transactions, unusual spending patterns, and fraudlent card usage to prevent financial losses for both the cardholders and financial institutions. 
+## To design a fraud detection system to identify fradulent credit card transaction in real-time. The system should detect suspicious activities such as unauthorized transactions, unusual spending patterns, and fraudlent card usage to prevent financial losses for both the cardholders and financial institutions. 
